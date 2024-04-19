@@ -1,0 +1,71 @@
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.exe
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.deps.json
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.runtimeconfig.json
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.dll
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.pdb
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Form1.resources
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Properties.Resources.resources
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.GenerateResource.cache
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfoInputs.cache
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfo.cs
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.CoreCompileInputs.cache
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.dll
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\refint\jang fazayi.dll
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.pdb
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.genruntimeconfig.cache
+C:\Users\DeletedMahdi\Desktop\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\ref\jang fazayi.dll
+E:\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.exe
+E:\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.deps.json
+E:\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.runtimeconfig.json
+E:\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.dll
+E:\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.pdb
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Form1.resources
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Properties.Resources.resources
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.GenerateResource.cache
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfoInputs.cache
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfo.cs
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.CoreCompileInputs.cache
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.dll
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\refint\jang fazayi.dll
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.pdb
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.genruntimeconfig.cache
+E:\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\ref\jang fazayi.dll
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.exe
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.deps.json
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.runtimeconfig.json
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.dll
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.pdb
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Form1.resources
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Properties.Resources.resources
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.GenerateResource.cache
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfoInputs.cache
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfo.cs
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.CoreCompileInputs.cache
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.dll
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\refint\jang fazayi.dll
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.pdb
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.genruntimeconfig.cache
+D:\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\ref\jang fazayi.dll
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.exe
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.deps.json
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.runtimeconfig.json
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.dll
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\bin\Debug\net8.0-windows\jang fazayi.pdb
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Form1.resources
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang_fazayi.Properties.Resources.resources
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.GenerateResource.cache
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfoInputs.cache
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.AssemblyInfo.cs
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.csproj.CoreCompileInputs.cache
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.dll
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\refint\jang fazayi.dll
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.pdb
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.genruntimeconfig.cache
+C:\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\ref\jang fazayi.dll
+C:\Users\DeletedMahdi\Downloads\New folder (12) (2)\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.dll
+C:\Users\DeletedMahdi\Downloads\New folder (12) (2)\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\refint\jang fazayi.dll
+C:\Users\DeletedMahdi\Downloads\New folder (12) (2)\New folder (12)\New folder (86)\Jang Fazayi\jang fazayi\jang fazayi\obj\Debug\net8.0-windows\jang fazayi.pdb
